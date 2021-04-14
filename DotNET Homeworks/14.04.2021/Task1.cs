@@ -19,7 +19,7 @@ namespace HomeWorks
             } while (ch != '.');
 
             Console.WriteLine("Daxil etdiyiniz metnde bosluqlarin sayi = " + spaces);
-            Console.Read();
+            Console.ReadKey();
         }
     }
 }
