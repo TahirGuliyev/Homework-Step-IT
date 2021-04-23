@@ -4,6 +4,10 @@ namespace HomeWorks
 {
     class Homework
     {
+        /*
+        Compress an array, deleting all zeros from it, and then fill
+        the elements available from the right with the values of -1.
+        */
         static void Main(string[] args)
         {
             Random random = new Random();
